@@ -1,0 +1,14 @@
+.twitter-input {
+  background-color: rgb(37, 51, 65);
+  border-radius: 9999px;
+  border: 1px solid;
+  border-color: transparent;
+  color: rgb(255, 255, 255);
+  padding: 10px;
+}
+
+.twitter-input:focus {
+  border: 1px solid;
+  outline: 0;
+  border-color: rgb(29, 161, 242);
+}
